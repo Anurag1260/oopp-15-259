@@ -35,6 +35,7 @@ int main() {
 
     cout << "\nTime 1: ";
     t1.show();
+    
 
     cout << "Time 2: ";
     t2.show();
