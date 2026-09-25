@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Function using reference
+
 void updateReference(float &salary) {
     salary = salary + (salary * 10 / 100);
 }
