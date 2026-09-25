@@ -13,7 +13,9 @@ void byReference(int &x) {
 
 // Call by Address
 void byAddress(int *x) {
+    
     *x = *x + 10;
+
 }
 
 int main() {
