@@ -5,12 +5,12 @@ void byValue(int x) {
     x = x + 10;
 }
 
-void byReference(int &x) {
+void byReference(int &x) {  
     x = x + 10;
 }
 
 void byAddress(int *x) {
-    *x = *x + 10;
+    *x =  *x + 10;
 }
 
 int main() {
