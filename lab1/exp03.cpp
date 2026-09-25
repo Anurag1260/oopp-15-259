@@ -29,10 +29,10 @@ int main() {
     cout << "\nEnter details of Point 2:\n";
     p2.input();
 
-    cout << "\n--- Point 1 ---\n";
+    cout << "\n Point 1\n";
     p1.show();
 
-    cout << "\n--- Point 2 ---\n";
+    cout << "\n Point 2\n";
     p2.show();
 
     return 0;
